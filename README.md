@@ -70,6 +70,18 @@ Click on the link to view a video demonstration of the application:
 
 ## Reference
 
+Starter code provided by https://github.com/coding-boot-camp/fantastic-umbrella
+
+- https://www.npmjs.com/package/inquirer
+- https://www.npmjs.com/package/mysql2
+- https://sequelize.org/docs/v6/core-concepts/model-instances/
+- https://sequelize.org/docs/v6/core-concepts/model-basics/
+- https://sequelize.org/docs/v6/core-concepts/assocs/
+- https://sequelize.org/docs/v7/models/validations-and-constraints/#:~:text=Using%20the%20%40NotNull%20decorator%2C%20you,the%20query%20to%20the%20database.
+- https://sequelize.org/docs/v6/core-concepts/model-querying-basics/
+- https://www.mysql.com/products/workbench/
+- https://insomnia.rest/
+
 ## License
 
 MIT license was used for this application.
