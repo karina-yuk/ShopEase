@@ -4,7 +4,7 @@
 
 ## Description
 
-This is an e-commerce backend application. It was developed using JavaScript, Sequelize, MySQL Workbench, Express.js, and Node.js. Insomnia was used to demonstrate the functionality of the localhost server. 
+ShopEase is a back end application that allows users to create, read, update, and delete products and categories. The application is built using JavaScript, Node.js, Express.js, and MySQL. Insomnia was used to demonstrate the functionality of the localhost server. 
 
 ## Table of Contents
 
@@ -41,6 +41,7 @@ Now you should be able to test out the functionality on Insomnia.
 
 ## Usage
 
+This application is used to manage a company's inventory. It allows the user to view, add, update, and delete products.
 
 ## Application Sample
 
@@ -67,6 +68,7 @@ Sample image of the application shown :
 <img src="assets/images/DELETE Product.JPG" alt="DELETE to remove a Product by its id">
 
 Click on the link to view a video demonstration of the application:
+https://drive.google.com/file/d/1s5dyRnk_9ILXxKx5nJopOTwTzrsb5syc/view?usp=sharing
 
 ## Reference
 
